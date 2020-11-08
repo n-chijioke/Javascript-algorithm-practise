@@ -1,0 +1,23 @@
+{
+    "git.allowForcePush": true,
+    "gitlens.advanced.messages": {
+
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitDisabledWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressSupportGitLensNotification": false
+    }
+    {
+    // Is git enabled
+    "git.enabled": true,
+
+    // Path to the git executable
+    "git.path": "C:\\path\\to\\git.exe"
+
+    // other settings
+}
+}
